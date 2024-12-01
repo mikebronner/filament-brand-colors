@@ -16,12 +16,14 @@ The following filaments have been identified to match certain brands closely, if
 
 |Brand | Filament Type | Filament | Color Family | Photo|
 |--- | --- | --- | --- | ---|
-|Dewalt (#febd17) | PLA | [Hatchbox Dark Yellow](https://www.amazon.com/HATCHBOX-Filament-Dimensional-Accuracy-Printing/dp/B09WWVH8J1) | Yellow | ![IMG_0059 2\|690x388, 50%](upload://nqY1wTlArdlMDyeZjmcMoY5Wf0t.jpeg)|
+|Dewalt (#febd17) | PLA | [Hatchbox Dark Yellow](https://www.amazon.com/HATCHBOX-Filament-Dimensional-Accuracy-Printing/dp/B09WWVH8J1) | Yellow | ![a43e69c36ff1d5dd080ee3ea4eece29c370d6059_2_690x388](https://github.com/user-attachments/assets/ad302150-bb43-4a2d-8bf2-f7168349ba10)
+|
 |Festool (#23aa08) | HTPLA | [Protopasta Lootsef Green](https://proto-pasta.com/products/lootsef-green-htpla) | Green | |
+|Milwakee (#db011c) | PLA | [PolyTerra Army Red](https://www.amazon.com/Polymaker-Matte-Filament-Printer-1-75mm/dp/B098L51KJ3) | Red | ![7aa1a4ccad7ecb29b846fd3e0c88b7971d66456d_2_750x1000](https://github.com/user-attachments/assets/f3381a6e-56ed-4f8a-9d97-6e7632b84bed)
+|
 
 **Seeking Filaments for:**
 - Woodpeckers (#902123)
-- Milwaukee (#db011c)
 - Ryobi (#e1e723)
 - Makita (#008a97)
 - Wen (#ff6900)
